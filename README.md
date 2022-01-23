@@ -1,2 +1,2 @@
 # improved-octo-goggles
-rl testing on tic-tac-toe 
+tic-tac-toe agent with reinforcement learning
